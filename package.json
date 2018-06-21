@@ -1,4 +1,7 @@
 {
-	"name": "kbengine_ts",
-	 "version": "1.0.0"
+  "name": "kbengine-ts",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+  }
 }
