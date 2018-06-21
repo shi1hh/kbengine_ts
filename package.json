@@ -1,9 +1,7 @@
 {
-  "name": "kbengine-ts",
+  "name": "kbengine-js",
   "version": "1.0.1",
   "scripts": {},
   "dependencies": {
   },
-  "main": "./bin/kbengine.min.js",
-  "typings": "./bin/kbengine.d.ts"
 }
